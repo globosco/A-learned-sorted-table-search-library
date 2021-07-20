@@ -5,8 +5,8 @@
 ## Requirements
 
 ## Datasets
-
-The datasets can be download ...(Inserire repository)
+Execute Python Scripts
+The datasets can be downloaded ...(Inserire repository)
 
 ## Usage
 
