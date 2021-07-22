@@ -43,7 +43,7 @@ In order to use library as standalone application, you can find some C++ example
 - mainStdTest.cpp is used to execute textbook search implementation and layout
 - mainRgrTest.cpp is used to execute Regression and search
 - mainOptimalSearchTest.cpp is used to execute KO-BFS or KO-BBS as described in [1]
-- mainKbfsTest.cpp and mainKbbsTest.cpp is used to execute k-ary search in the brancy or brachfree version respectively as described in [2]
+- mainKbfsTest.cpp and mainKbbsTest.cpp is used to execute k-ary search in the branchy or brachfree version respectively as described in [2]
 
 To compile use:
 
