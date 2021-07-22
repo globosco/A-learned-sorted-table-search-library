@@ -38,12 +38,21 @@ Then, you can include the following files:
 
 ### Execute Test
 
-Inside you can find some C++ example files that use this library. In particular:
+In order to use library as standalone application, you can find some C++ example files inside the Test directory. In particular:
 
 - mainStdTest.cpp is used to execute textbook search implementation and layout
 - mainRgrTest.cpp is used to execute Regression and search
 - mainOptimalSearchTest.cpp is used to execute KO-BFS or KO-BBS as described in [1]
 - mainKbfsTest.cpp and mainKbbsTest.cpp is used to execute k-ary search in the brancy or brachfree version respectively as described in [2]
+
+To compile use:
+
+```
+
+gcc [file c++ path and name] -o [file executable path and name] -std=c++17 -fopenmp
+
+```
+
 
 ### Execute Python Scripts
 
