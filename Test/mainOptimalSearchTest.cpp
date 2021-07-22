@@ -5,9 +5,9 @@
 #include "../include/sts/search/EytzeingerLayout.hpp"
 #include "../include/sts/search/VanEmdeBoaLayout.hpp"
 #include "../include/sts/search/BTreesLayout.hpp"
-#include "../include/sts/search/LrLearneadDs.hpp"
-#include "../include/sts/search/QrLearneadDS.hpp"
-#include "../include/sts/search/CrLearneadDS.hpp"
+#include "../include/sts/search/LrLearnedDS.hpp"
+#include "../include/sts/search/QrLearnedDS.hpp"
+#include "../include/sts/search/CrLearnedDS.hpp"
 
 #define RES pow(10, 9)
 

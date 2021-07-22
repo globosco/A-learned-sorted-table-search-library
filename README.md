@@ -20,7 +20,18 @@ The datasets can be downloaded ...(Inserire repository)
 
 ## Usage
 
+This Software can be compiled and execute as standalone software or can be included as library inside a C++ application.
+
 ### Include library
+
+In order to include search procedure in a C++ application you can copy and paste the include directory in your project folder.
+Then, you can include the following files:
+
+- StandardLayout.hpp in order to use BBS, BFS, K-BBS and K-BFS
+- EytzeingerLayout.hpp in order to create an Eytzinger Layout and use BFE
+- VamEmdeBoaLayout.hpp in order to create a Van Emde Boas Layout and use BFV
+- BTreesLayout.hpp in order to create a B+-Tree Layout and use BFT
+- LrLearnedDS.hpp, QrLearnedDS.hpp and CrLearnedDS.hpp in order to use Linear, Quadratic or Cubic regression respectively
 
 ### Execute Test
 

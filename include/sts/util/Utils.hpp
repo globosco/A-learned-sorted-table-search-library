@@ -5,9 +5,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "../search/StandardLayout.hpp"
-#include "../search/LrLearneadDs.hpp"
-#include "../search/QrLearneadDS.hpp"
-#include "../search/CrLearneadDS.hpp"
+#include "../search/LrLearnedDS.hpp"
+#include "../search/QrLearnedDS.hpp"
+#include "../search/CrLearnedDS.hpp"
 #include "../../dep/json.hpp"
 #include "../../dep/util.h"
 
