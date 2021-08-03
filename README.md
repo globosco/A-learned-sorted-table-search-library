@@ -56,6 +56,18 @@ gcc [file c++ path and name] -o [file executable path and name] -std=c++17 -fope
 
 ### Execute Python Scripts
 
+### How to modified PGM Library
+
+In order to use PGM_M_a as described in our work, You have to change the row 92 of the [tuner](https://github.com/gvinciguerra/PGM-index/blob/master/tuner/tuner.cpp) with:
+
+```
+int a = 2
+auto lo_eps = a * cache_line_size() / sizeof(int64_t);
+
+```
+
+where a is the PGM_M_a parameter
+
 ## Cite
 
 If you use this library on your work, please cite us:
