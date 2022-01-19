@@ -84,6 +84,7 @@ If you use this library on your work, please cite us:
 ## Bibliography
 
 [1] Amato, D., Giancarlo, R., & Bosco, G. L. (2021). Learned sorted table search and static indexes in small space: Methodological and practical insights via an experimental study. arXiv preprint arXiv:2107.09480.
+
 [2] Khuong, P. V., & Morin, P. (2017). Array layouts for comparison-based searching. Journal of Experimental Algorithmics (JEA), 22, 1-39.
 
 
