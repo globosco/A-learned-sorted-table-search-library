@@ -72,10 +72,19 @@ where a is the PGM_M_a parameter
 
 If you use this library on your work, please cite us:
 
+```
+@article{amato2021learned,
+  title={Learned sorted table search and static indexes in small space: Methodological and practical insights via an experimental study},
+  author={Amato, Domenico and Giancarlo, Raffaele and Bosco, Giosu{\`e} Lo},
+  journal={arXiv preprint arXiv:2107.09480},
+  year={2021}
+}
+```
+
 ## Bibliography
 
-[1] Nostro Articolo
-[2] Morin
+[1] Amato, D., Giancarlo, R., & Bosco, G. L. (2021). Learned sorted table search and static indexes in small space: Methodological and practical insights via an experimental study. arXiv preprint arXiv:2107.09480.
+[2] Khuong, P. V., & Morin, P. (2017). Array layouts for comparison-based searching. Journal of Experimental Algorithmics (JEA), 22, 1-39.
 
 
 
