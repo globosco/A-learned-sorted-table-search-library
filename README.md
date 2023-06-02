@@ -19,7 +19,7 @@ In order to execute Python script, you need the to install dependencies using:
 
 ## Datasets
 
-Datasets and Query Files can be downloaded [here](https://osf.io/qtyu7/?view_only=b48e6cc6e01b441383b26b81588090ec)
+Datasets and Query Files can be downloaded [here](https://osf.io/mtx83/?view_only=0bbd6b56bb674b828ec3ce9fde380f96)
 
 ## Usage
 
