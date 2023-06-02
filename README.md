@@ -74,29 +74,27 @@ If you use this library on your work, please cite us:
 
 ```
 @Article{data8030056,
-AUTHOR = {Amato, Domenico and Giancarlo, Raffaele and Lo Bosco, Giosué},
-TITLE = {Learned Sorted Table Search and Static Indexes in Small-Space Data Models},
-JOURNAL = {Data},
-VOLUME = {8},
-YEAR = {2023},
-NUMBER = {3},
-ARTICLE-NUMBER = {56},
-URL = {https://www.mdpi.com/2306-5729/8/3/56},
-ISSN = {2306-5729},
-DOI = {10.3390/data8030056}
+ AUTHOR = {Amato, Domenico and Giancarlo, Raffaele and Lo Bosco, Giosué},
+ TITLE = {Learned Sorted Table Search and Static Indexes in Small-Space Data Models},
+ JOURNAL = {Data},
+ VOLUME = {8},
+ YEAR = {2023},
+ NUMBER = {3},
+ ARTICLE-NUMBER = {56},
+ URL = {https://www.mdpi.com/2306-5729/8/3/56},
+ ISSN = {2306-5729},
+ DOI = {10.3390/data8030056}
 }
 
 @InProceedings{10.1007/978-3-031-08421-8_32,
-author="Amato, Domenico
-and Lo Bosco, Giosu{\'e}
-and Giancarlo, Raffaele",
-title="Learned Sorted Table Search and Static Indexes in Small Model Space",
-booktitle="AIxIA 2021 -- Advances in Artificial Intelligence",
-year="2022",
-publisher="Springer International Publishing",
-address="Cham",
-pages="462--477",
-isbn="978-3-031-08421-8"
+ author="Amato, Domenico and Lo Bosco, Giosu{\'e} and Giancarlo, Raffaele",
+ title="Learned Sorted Table Search and Static Indexes in Small Model Space",
+ booktitle="AIxIA 2021 -- Advances in Artificial Intelligence",
+ year="2022",
+ publisher="Springer International Publishing",
+ address="Cham",
+ pages="462--477",
+ isbn="978-3-031-08421-8"
 }
 
 @article{amato2021learned,
