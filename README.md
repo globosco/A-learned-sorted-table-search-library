@@ -99,7 +99,7 @@ If you use this library on your work, please cite us:
 
 @article{amato2021learned,
   title={Learned sorted table search and static indexes in small space: Methodological and practical insights via an experimental study},
-  author={Amato, Domenico and Giancarlo, Raffaele and Bosco, Giosu{\`e} Lo},
+  author={Amato, Domenico and Giancarlo, Raffaele and Lo Bosco, Giosu{\`e} },
   journal={arXiv preprint arXiv:2107.09480},
   year={2021}
 }
