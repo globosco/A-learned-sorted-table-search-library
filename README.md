@@ -19,7 +19,7 @@ In order to execute Python script, you need the to install dependencies using:
 
 ## Datasets
 
-Datasets and Query Files can be downloaded [here](http://math.unipa.it/lobosco/LSTS/)
+Datasets and Query Files can be downloaded [here](https://osf.io/qtyu7/?view_only=b48e6cc6e01b441383b26b81588090ec)
 
 ## Usage
 
